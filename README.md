@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaijaz
-- 👀 I’m interested in blockchain, artificial intelligence, and the intersections of psychology, neuroscience, climate science, and tech.
+- 👀 I’m interested in using tech for positive social impact
 - 🌱 I’m currently learning the foundations of computer science.
 - 💞️ I’m looking to collaborate on meaningful projects.
 - 📫 How to reach me: message me.
